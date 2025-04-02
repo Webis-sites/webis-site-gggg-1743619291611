@@ -1,11 +1,78 @@
 {
-  "timestamp": "2025-04-02T18:41:31.611Z",
+  "timestamp": "2025-04-02T18:42:00.104Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 11,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Main hero section with headline, subheadline, and call to action for the restaurant"
+    },
+    {
+      "name": "AboutUsSection",
+      "type": "about",
+      "status": "pending",
+      "description": "Section explaining the restaurant's background, experience, and expertise"
+    },
+    {
+      "name": "FeaturedMenuItems",
+      "type": "products",
+      "status": "pending",
+      "description": "Showcase of signature dishes and tech-themed menu items"
+    },
+    {
+      "name": "TechExperience",
+      "type": "features",
+      "status": "pending",
+      "description": "Highlighting the unique technology experiences offered at the restaurant"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Overview of special services offered by the restaurant"
+    },
+    {
+      "name": "BookingSystem",
+      "type": "booking",
+      "status": "pending",
+      "description": "Interactive reservation system for customers to book tables"
+    },
+    {
+      "name": "GallerySection",
+      "type": "portfolio",
+      "status": "pending",
+      "description": "Visual showcase of the restaurant interior, dishes, and tech features"
+    },
+    {
+      "name": "TestimonialsSection",
+      "type": "testimonials",
+      "status": "pending",
+      "description": "Customer reviews and feedback about the restaurant"
+    },
+    {
+      "name": "FAQSection",
+      "type": "faq",
+      "status": "pending",
+      "description": "Frequently asked questions about the restaurant"
+    },
+    {
+      "name": "ContactSection",
+      "type": "contact",
+      "status": "pending",
+      "description": "Contact information and form for customer inquiries"
+    },
+    {
+      "name": "FooterSection",
+      "type": "footer",
+      "status": "pending",
+      "description": "Website footer with essential links and information"
+    }
+  ],
   "repoName": ""
 }
